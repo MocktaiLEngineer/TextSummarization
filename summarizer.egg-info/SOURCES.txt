@@ -1,0 +1,11 @@
+README.md
+setup.py
+summarizer/__init__.py
+summarizer/speaker_identifier.py
+summarizer/utils.py
+summarizer.egg-info/PKG-INFO
+summarizer.egg-info/SOURCES.txt
+summarizer.egg-info/dependency_links.txt
+summarizer.egg-info/top_level.txt
+tests/__init__.py
+tests/test_speaker_identifier.py

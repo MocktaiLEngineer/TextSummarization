@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: summarizer
+Version: 0.1
+Summary: A package to identify speakers from business conversation transcripts
+Home-page: 
+Author: Kavin Arasu
+Author-email: kavinarasu22@gmail.com
+Requires-Python: >=3.7
