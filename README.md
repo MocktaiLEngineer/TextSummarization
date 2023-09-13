@@ -1,1 +1,1 @@
-# TextSummarization
+# Meeting Summarizer
